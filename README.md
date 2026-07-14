@@ -50,11 +50,6 @@ The internship provided hands-on exposure to building modern, user-friendly webs
 - **Duration:** 1 Month
 - **Period:** July 1, 2025 – August 1, 2025
 
----
-
-## 📜 Certificate
-
-![Web Development Internship Certificate](images/web-development-internship-certificate.png)
 
 ---
 
